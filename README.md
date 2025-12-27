@@ -16,7 +16,7 @@ The goal is to demonstrate deep learning-based gesture classification, model dev
 - CNN model trained on gesture dataset  
 - Integrated with **Streamlit** for interactive UI  
 - Low latency prediction pipeline using **OpenCV**  
-- Scalable code structure — add more gestures anytime  
+- Scalable code structure - add more gestures anytime  
 - Ready for automation (slides, media, mouse, etc.)
 
 
