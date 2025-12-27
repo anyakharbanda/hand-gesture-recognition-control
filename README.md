@@ -1,4 +1,4 @@
-# 📌 Real-Time Hand Gesture Recognition & Control System  
+# Real-Time Hand Gesture Recognition & Control System  
 **Deep Learning (CNN) + Computer Vision (OpenCV) + Streamlit**
 
 
