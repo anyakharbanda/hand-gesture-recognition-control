@@ -5,7 +5,7 @@
 ## Project Overview
 
 This project implements a **Real-Time Hand Gesture Recognition System** using **Convolutional Neural Networks (CNN)** and **OpenCV**.  
-It detects hand gestures through a live webcam feed and maps them to control actions — enabling **touchless human-computer interaction**.
+It detects hand gestures through a live webcam feed and maps them to control actions - enabling **touchless human-computer interaction**.
 
 The goal is to demonstrate deep learning-based gesture classification, model development, and real-time inference for HCI applications.
 
